@@ -420,7 +420,7 @@ footer .footer span a:hover {
     <!-- Content -->
     <div class="line" id="Home">
         <div class="side1">
-            <h1>GeeksforGeeks</h1>
+            <h1>Welcome to Koushik's Server</h1>
             <button>
                 <a href=
 "https://www.geeksforgeeks.org/">
